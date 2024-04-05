@@ -1,2 +1,5 @@
 # ONPW
 Online Nursery Plant Shopping Website
+
+PROJECT OVERVIEW
+An online nursery plant shopping website is a platform that provides customers with the convenience of shopping for plants from the comfort of their own homes. The website offers a wide variety of plants, including indoor and outdoor plants, succulents, and herbs, with detailed information and images of each plant. Customers can browse through the different categories, select the plants they wish to purchase, and complete the transaction with a few clicks. The website also features a user-friendly interface, allowing customers to easily search for specific plants or filter their search results based on various criteria, such as light and water requirements. Delivery options are also available, ensuring that the purchased plants are safely transported to the customer's location. This online nursery plant shopping website provides a convenient and accessible solution for plant enthusiasts, making it easy to find and purchase the plants they love.
